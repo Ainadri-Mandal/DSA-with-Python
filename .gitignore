@@ -1,0 +1,27 @@
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore data files
+*.csv
+*.tsv
+*.h5
+*.hdf5
+*.db
+*.sqlite
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Jupyter runtime
+*.log
+*.bak
+*.tmp
